@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="362e09af-ec6b-4165-a1bc-7f93be59f315" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/variablesandcomments/CommentsAndVariables.java" afterDir="false" />
+    <list default="true" id="362e09af-ec6b-4165-a1bc-7f93be59f315" name="Changes" comment="Design the step by step guid for git workflow">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/classesandobjects/autoservicetask/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/classesandobjects/autoservicetask/Garage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/classesandobjects/autoservicetask/ManageAutoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/classesandobjects/autoservicetask/Tool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/classesandobjects/autoservicetask/Worker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +26,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="TA-8_AutoServiceTask" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -50,13 +58,31 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CommentsAndVariables">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="md.tekwillacademy.classesandobects.autoservicetask" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.md.tekwillacademy.classesandobjects.autoservicetask.ManageAutoService">
     <configuration name="CommentsAndVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="md.tekwillacademy.variablesandcomments.CommentsAndVariables" />
       <module name="JavaLearningProject" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="md.tekwillacademy.variablesandcomments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GitStepByStepGuide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md.tekwillacademy.gitworkflow.GitStepByStepGuide" />
+      <module name="JavaLearningProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="md.tekwillacademy.gitworkflow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,8 +103,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ManageAutoService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md.tekwillacademy.classesandobects.autoservicetask.ManageAutoService" />
+      <module name="JavaLearningProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="md.tekwillacademy.classesandobects.autoservicetask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="md.tekwillacademy.classesandobjects.autoservicetask.ManageAutoService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md.tekwillacademy.classesandobjects.autoservicetask.ManageAutoService" />
+      <module name="JavaLearningProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="md.tekwillacademy.classesandobjects.autoservicetask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.md.tekwillacademy.classesandobjects.autoservicetask.ManageAutoService" />
+        <item itemvalue="Application.ManageAutoService" />
+        <item itemvalue="Application.GitStepByStepGuide" />
         <item itemvalue="Application.CommentsAndVariables" />
         <item itemvalue="Application.Main" />
       </list>
@@ -93,7 +148,57 @@
       <option name="presentableId" value="Default" />
       <updated>1712940221891</updated>
     </task>
+    <task id="LOCAL-00001" summary="Declared all variables and their initialization.">
+      <created>1712946526890</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712946526890</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Design the step by step guid for git workflow">
+      <created>1713290153584</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713290153584</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Design the step by step guid for git workflow">
+      <created>1713291316543</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713291316543</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="TA-8_AutoServiceTasks" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Declared all variables and their initialization." />
+    <MESSAGE value="Design the step by step guid for git workflow" />
+    <option name="LAST_COMMIT_MESSAGE" value="Design the step by step guid for git workflow" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -102,6 +207,20 @@
           <url>file://$PROJECT_DIR$/src/main/java/md/tekwillacademy/Main.java</url>
           <line>2</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/md/tekwillacademy/gitworkflow/GitStepByStepGuide.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/md/tekwillacademy/classesandobjects/autoservicetask/ManageAutoService.java</url>
+          <line>3</line>
+          <properties class="md.tekwillacademy.classesandobjects.autoservicetask.ManageAutoService" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
