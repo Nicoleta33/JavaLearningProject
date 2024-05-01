@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="362e09af-ec6b-4165-a1bc-7f93be59f315" name="Changes" comment="Added the immplementation of Java Operation, Cycle Functions and Control Structures">
 =======
+=======
+>>>>>>> 2f9fcc361ddb741406a3fc3ffb3a645f18a866ba
     <list default="true" id="362e09af-ec6b-4165-a1bc-7f93be59f315" name="Changes" comment="Added the classes for the people evidence catalog task">
       <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/operationsandciclicfunctions/ArithmeticOperationsExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/operationsandciclicfunctions/AssignmentOperationsExample.java" afterDir="false" />
@@ -16,6 +19,9 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/operationsandciclicfunctions/IncrementDecrementOperations.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/operationsandciclicfunctions/LogicalOperationsExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/operationsandciclicfunctions/PrintNumberService.java" afterDir="false" />
+<<<<<<< HEAD
+>>>>>>> 2f9fcc361ddb741406a3fc3ffb3a645f18a866ba
+=======
 >>>>>>> 2f9fcc361ddb741406a3fc3ffb3a645f18a866ba
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
