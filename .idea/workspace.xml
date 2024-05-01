@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="362e09af-ec6b-4165-a1bc-7f93be59f315" name="Changes" comment="Design the step by step guid for git workflow">
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/accessmodifiers/ChisinauEvidenceService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/accessmodifiers/peopleevidence/Person.java" afterDir="false" />
+    <list default="true" id="362e09af-ec6b-4165-a1bc-7f93be59f315" name="Changes" comment="Added the immplementation of Java Operation, Cycle Functions and Control Structures">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -165,7 +163,21 @@
       <option name="project" value="LOCAL" />
       <updated>1713291316543</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added the immplementation of Java Operation, Cycle Functions and Control Structures">
+      <created>1714141549633</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714141549634</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added the immplementation of Java Operation, Cycle Functions and Control Structures">
+      <created>1714141885822</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714141885822</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,7 +191,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="TA-8_AutoServiceTasks" />
+                        <option value="TA-10_OprerationsAndDefinedFunctions" />
                       </list>
                     </value>
                   </entry>
@@ -194,7 +206,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Declared all variables and their initialization." />
     <MESSAGE value="Design the step by step guid for git workflow" />
-    <option name="LAST_COMMIT_MESSAGE" value="Design the step by step guid for git workflow" />
+    <MESSAGE value="Added the immplementation of Java Operation, Cycle Functions and Control Structures" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the immplementation of Java Operation, Cycle Functions and Control Structures" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
