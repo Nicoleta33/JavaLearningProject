@@ -4,25 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <list default="true" id="362e09af-ec6b-4165-a1bc-7f93be59f315" name="Changes" comment="Added the immplementation of Java Operation, Cycle Functions and Control Structures">
-=======
-=======
->>>>>>> 2f9fcc361ddb741406a3fc3ffb3a645f18a866ba
-    <list default="true" id="362e09af-ec6b-4165-a1bc-7f93be59f315" name="Changes" comment="Added the classes for the people evidence catalog task">
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/operationsandciclicfunctions/ArithmeticOperationsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/operationsandciclicfunctions/AssignmentOperationsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/operationsandciclicfunctions/ComparisonOperationsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/operationsandciclicfunctions/DayOfTheWeekService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/operationsandciclicfunctions/GradeSystemService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/operationsandciclicfunctions/IncrementDecrementOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/operationsandciclicfunctions/LogicalOperationsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/operationsandciclicfunctions/PrintNumberService.java" afterDir="false" />
-<<<<<<< HEAD
->>>>>>> 2f9fcc361ddb741406a3fc3ffb3a645f18a866ba
-=======
->>>>>>> 2f9fcc361ddb741406a3fc3ffb3a645f18a866ba
+    <list default="true" id="362e09af-ec6b-4165-a1bc-7f93be59f315" name="Changes" comment="Design the step by step guid for git workflow">
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/accessmodifiers/ChisinauEvidenceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/accessmodifiers/peopleevidence/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,19 +28,6 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
-  }
-}]]></component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="0216090f-4b73-463b-a659-ba480c4b8163" />
-        <option name="url" value="https://github.com/Nicoleta33/JavaLearningProject.git" />
-      </UrlAndAccount>
-    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -88,13 +59,13 @@
       <recent name="md.tekwillacademy.classesandobects.autoservicetask" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrintNumberService">
-    <configuration name="DayOfTheWeekService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="md.tekwillacademy.operationsandciclicfunctions.DayOfTheWeekService" />
+  <component name="RunManager" selected="Application.ChisinauEvidenceService">
+    <configuration name="ChisinauEvidenceService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md.tekwillacademy.accessmodifiers.ChisinauEvidenceService" />
       <module name="JavaLearningProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="md.tekwillacademy.operationsandciclicfunctions.*" />
+          <option name="PATTERN" value="md.tekwillacademy.accessmodifiers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GradeSystemService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="md.tekwillacademy.operationsandciclicfunctions.GradeSystemService" />
+    <configuration name="CommentsAndVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md.tekwillacademy.variablesandcomments.CommentsAndVariables" />
       <module name="JavaLearningProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="md.tekwillacademy.operationsandciclicfunctions.*" />
+          <option name="PATTERN" value="md.tekwillacademy.variablesandcomments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IncrementDecrementOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="md.tekwillacademy.operationsandciclicfunctions.IncrementDecrementOperations" />
+    <configuration name="GitStepByStepGuide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md.tekwillacademy.gitworkflow.GitStepByStepGuide" />
       <module name="JavaLearningProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="md.tekwillacademy.operationsandciclicfunctions.*" />
+          <option name="PATTERN" value="md.tekwillacademy.gitworkflow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogicalOperationsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="md.tekwillacademy.operationsandciclicfunctions.LogicalOperationsExample" />
+    <configuration name="ManageAutoService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md.tekwillacademy.classesandobects.autoservicetask.ManageAutoService" />
       <module name="JavaLearningProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="md.tekwillacademy.operationsandciclicfunctions.*" />
+          <option name="PATTERN" value="md.tekwillacademy.classesandobects.autoservicetask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintNumberService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="md.tekwillacademy.operationsandciclicfunctions.PrintNumberService" />
+    <configuration name="md.tekwillacademy.classesandobjects.autoservicetask.ManageAutoService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md.tekwillacademy.classesandobjects.autoservicetask.ManageAutoService" />
       <module name="JavaLearningProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="md.tekwillacademy.operationsandciclicfunctions.*" />
+          <option name="PATTERN" value="md.tekwillacademy.classesandobjects.autoservicetask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrintNumberService" />
-        <item itemvalue="Application.DayOfTheWeekService" />
-        <item itemvalue="Application.GradeSystemService" />
-        <item itemvalue="Application.LogicalOperationsExample" />
-        <item itemvalue="Application.IncrementDecrementOperations" />
+        <item itemvalue="Application.ChisinauEvidenceService" />
+        <item itemvalue="Application.md.tekwillacademy.classesandobjects.autoservicetask.ManageAutoService" />
+        <item itemvalue="Application.ManageAutoService" />
+        <item itemvalue="Application.GitStepByStepGuide" />
+        <item itemvalue="Application.CommentsAndVariables" />
       </list>
     </recent_temporary>
   </component>
@@ -194,21 +165,7 @@
       <option name="project" value="LOCAL" />
       <updated>1713291316543</updated>
     </task>
-    <task id="LOCAL-00004" summary="Added the immplementation of Java Operation, Cycle Functions and Control Structures">
-      <created>1714141549633</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1714141549634</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Added the immplementation of Java Operation, Cycle Functions and Control Structures">
-      <created>1714141885822</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1714141885822</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -222,7 +179,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="TA-10_OprerationsAndDefinedFunctions" />
+                        <option value="TA-8_AutoServiceTasks" />
                       </list>
                     </value>
                   </entry>
@@ -237,8 +194,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Declared all variables and their initialization." />
     <MESSAGE value="Design the step by step guid for git workflow" />
-    <MESSAGE value="Added the immplementation of Java Operation, Cycle Functions and Control Structures" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added the immplementation of Java Operation, Cycle Functions and Control Structures" />
+    <option name="LAST_COMMIT_MESSAGE" value="Design the step by step guid for git workflow" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
