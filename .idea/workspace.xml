@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="362e09af-ec6b-4165-a1bc-7f93be59f315" name="Changes" comment="Design the step by step guid for git workflow">
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/accessmodifiers/ChisinauEvidenceService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/accessmodifiers/peopleevidence/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/methodtask/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/methodtask/DataGeneratorUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/methodtask/ExecutionService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +60,7 @@
       <recent name="md.tekwillacademy.classesandobects.autoservicetask" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ChisinauEvidenceService">
+  <component name="RunManager" selected="Application.ExecutionService">
     <configuration name="ChisinauEvidenceService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="md.tekwillacademy.accessmodifiers.ChisinauEvidenceService" />
       <module name="JavaLearningProject" />
@@ -73,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CommentsAndVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="md.tekwillacademy.variablesandcomments.CommentsAndVariables" />
+    <configuration name="ExecutionService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md.tekwillacademy.methodtask.ExecutionService" />
       <module name="JavaLearningProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="md.tekwillacademy.variablesandcomments.*" />
+          <option name="PATTERN" value="md.tekwillacademy.methodtask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExecutionService" />
         <item itemvalue="Application.ChisinauEvidenceService" />
         <item itemvalue="Application.md.tekwillacademy.classesandobjects.autoservicetask.ManageAutoService" />
         <item itemvalue="Application.ManageAutoService" />
         <item itemvalue="Application.GitStepByStepGuide" />
-        <item itemvalue="Application.CommentsAndVariables" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +180,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="TA-8_AutoServiceTasks" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -208,6 +209,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/md/tekwillacademy/gitworkflow/GitStepByStepGuide.java</url>
           <line>26</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/md/tekwillacademy/gitworkflow/GitStepByStepGuide.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/md/tekwillacademy/classesandobjects/autoservicetask/ManageAutoService.java</url>
