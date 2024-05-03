@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="362e09af-ec6b-4165-a1bc-7f93be59f315" name="Changes" comment="Design the step by step guid for git workflow">
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/methodtask/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/methodtask/DataGeneratorUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/methodtask/ExecutionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/zooclubservice/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/zooclubservice/AnimalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/zooclubservice/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/zooclubservice/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/zooclubservice/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/zooclubservice/ZooClubService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -60,7 +64,7 @@
       <recent name="md.tekwillacademy.classesandobects.autoservicetask" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExecutionService">
+  <component name="RunManager" selected="Application.ZooClubService">
     <configuration name="ChisinauEvidenceService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="md.tekwillacademy.accessmodifiers.ChisinauEvidenceService" />
       <module name="JavaLearningProject" />
@@ -87,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GitStepByStepGuide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="md.tekwillacademy.gitworkflow.GitStepByStepGuide" />
+    <configuration name="ManageAutoService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md.tekwillacademy.classesandobects.autoservicetask.ManageAutoService" />
       <module name="JavaLearningProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="md.tekwillacademy.gitworkflow.*" />
+          <option name="PATTERN" value="md.tekwillacademy.classesandobects.autoservicetask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ManageAutoService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="md.tekwillacademy.classesandobects.autoservicetask.ManageAutoService" />
+    <configuration name="ZooClubService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md.tekwillacademy.zooclubservice.ZooClubService" />
       <module name="JavaLearningProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="md.tekwillacademy.classesandobects.autoservicetask.*" />
+          <option name="PATTERN" value="md.tekwillacademy.zooclubservice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ZooClubService" />
         <item itemvalue="Application.ExecutionService" />
         <item itemvalue="Application.ChisinauEvidenceService" />
         <item itemvalue="Application.md.tekwillacademy.classesandobjects.autoservicetask.ManageAutoService" />
         <item itemvalue="Application.ManageAutoService" />
-        <item itemvalue="Application.GitStepByStepGuide" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +170,21 @@
       <option name="project" value="LOCAL" />
       <updated>1713291316543</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added the changes that involves Different Methods, Overloading">
+      <created>1714586361907</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714586361907</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added the changes that involves Different Methods, Overloading">
+      <created>1714586487941</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714586487942</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,7 +213,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Declared all variables and their initialization." />
     <MESSAGE value="Design the step by step guid for git workflow" />
-    <option name="LAST_COMMIT_MESSAGE" value="Design the step by step guid for git workflow" />
+    <MESSAGE value="Added the changes that involves Different Methods, Overloading" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the changes that involves Different Methods, Overloading" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
