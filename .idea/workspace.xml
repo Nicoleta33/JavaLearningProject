@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="362e09af-ec6b-4165-a1bc-7f93be59f315" name="Changes" comment="Design the step by step guid for git workflow">
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/zooclubservice/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/zooclubservice/AnimalInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/zooclubservice/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/zooclubservice/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/zooclubservice/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/zooclubservice/ZooClubService.java" afterDir="false" />
+    <list default="true" id="362e09af-ec6b-4165-a1bc-7f93be59f315" name="Changes" comment="Added the implementation of Zoo Service by using OOP">
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/exceptionsservicetask/ArithmeticOperationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/exceptionsservicetask/Execution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/exceptionsservicetask/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/tekwillacademy/exceptionsservicetask/TextManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,13 +62,26 @@
       <recent name="md.tekwillacademy.classesandobects.autoservicetask" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ZooClubService">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="ChisinauEvidenceService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="md.tekwillacademy.accessmodifiers.ChisinauEvidenceService" />
       <module name="JavaLearningProject" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="md.tekwillacademy.accessmodifiers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Execution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md.tekwillacademy.exceptionsservicetask.Execution" />
+      <module name="JavaLearningProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="md.tekwillacademy.exceptionsservicetask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ManageAutoService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="md.tekwillacademy.classesandobects.autoservicetask.ManageAutoService" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md.tekwillacademy.exceptionsservicetask.Main" />
       <module name="JavaLearningProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="md.tekwillacademy.classesandobects.autoservicetask.*" />
+          <option name="PATTERN" value="md.tekwillacademy.exceptionsservicetask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,26 +128,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="md.tekwillacademy.classesandobjects.autoservicetask.ManageAutoService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="md.tekwillacademy.classesandobjects.autoservicetask.ManageAutoService" />
-      <module name="JavaLearningProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="md.tekwillacademy.classesandobjects.autoservicetask.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Execution" />
         <item itemvalue="Application.ZooClubService" />
         <item itemvalue="Application.ExecutionService" />
         <item itemvalue="Application.ChisinauEvidenceService" />
-        <item itemvalue="Application.md.tekwillacademy.classesandobjects.autoservicetask.ManageAutoService" />
-        <item itemvalue="Application.ManageAutoService" />
       </list>
     </recent_temporary>
   </component>
@@ -242,6 +240,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/md/tekwillacademy/exceptionsservicetask/Main.java</url>
+          <line>5</line>
+          <properties class="md.tekwillacademy.exceptionsservicetask.Main" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
